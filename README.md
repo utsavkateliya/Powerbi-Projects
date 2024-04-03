@@ -18,7 +18,7 @@ Snap for changing data category.
 
 ![Screenshot 2024-04-02 162650](https://github.com/utsavkateliya/Powerbi-Projects/assets/165784143/7990880f-3abd-4829-97b1-74a04c6fcff4)
 
-Once the data category is changed a cicle symbol will appear before the countries and continents name. 
+Once the data category is changed a circle symbol will appear before the countries and continents name. 
 
 ![Screenshot 2024-04-02 163808](https://github.com/utsavkateliya/Powerbi-Projects/assets/165784143/69529c3f-e03f-4afc-9cab-32b2e0a73475)
 
